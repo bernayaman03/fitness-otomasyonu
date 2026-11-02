@@ -1,0 +1,11 @@
+.vs/
+bin/
+obj/
+packages/
+
+Resources/
+*.db
+
+*.jpg
+*.jpeg
+*.png
